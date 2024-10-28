@@ -7,3 +7,6 @@ https://paddleocr.bj.bcebos.com/PP-OCRv4/chinese/ch_PP-OCRv4_det_infer.tar
 
 https://paddleocr.bj.bcebos.com/PP-OCRv4/chinese/ch_PP-OCRv4_rec_infer.tar
 
+# 飞桨文档地址
+
+https://paddlepaddle.github.io/PaddleOCR/latest/index.html
